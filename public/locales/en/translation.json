@@ -1,0 +1,20 @@
+{
+  "HomeLoan": {
+    "1": "Home Loan",
+    "2": "Loan EMI",
+    "3": "Total Payment",
+    "4": "Break-up of total payment",
+    "5": "Principal Loan Amount"
+  },
+  "InterestRate": {
+    "1": "Interest Rate",
+    "2": "Total Interest Payable",
+    "3": "Total interest"
+  },
+  "LoanTenure": {
+    "1": "Loan Tenure"
+  },
+  "Currency": {
+    "1": "₹"
+  }
+}

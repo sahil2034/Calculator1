@@ -1,0 +1,20 @@
+{
+  "HomeLoan": {
+    "1": "Prêt immobilier",
+    "2": "Prêt EMI",
+    "3": "Paiement total",
+    "4": "Rupture du paiement total",
+    "5": "Montant principal du prêt"
+  },
+  "InterestRate": {
+    "1": "Taux d'intérêt",
+    "2": "Intérêt total à payer",
+    "3": "Intérêt total"
+  },
+  "LoanTenure": {
+    "1": "Durée du prêt"
+  },
+  "Currency": {
+    "1": "€"
+  }
+}
